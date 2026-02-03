@@ -7,6 +7,7 @@ This project focuses on clean UI, layout structure, reusable CSS variables, and 
 <img width="2526" height="1262" alt="image" src="https://github.com/user-attachments/assets/08b3a67f-825c-4c53-966f-837c93c91ca7" />
 
 
+
 Live Demo:
 https://cursorlandingpage.netlify.app/
 
